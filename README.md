@@ -1,4 +1,4 @@
-# 🔰 Wabot-aq 🔰
+# RANS-BOT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
